@@ -64,7 +64,10 @@ Why would I use such a script?
 Do people still use Windows XP?
 > Surprisingly, yes and more than you think.
 
+![img1][18]
 
+[18]:https://github.com/Hagar-Usama/AVR_Windows/blob/master/images/C_to_hex.PNG
+[19]:https://github.com/Hagar-Usama/AVR_Windows/blob/master/images/comp_upload.PNG
 
 ---
 
